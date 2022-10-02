@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>37 Blue</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-blue.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-blue.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Brown</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-brown.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-brown.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Green</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-green.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-green.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Orange</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-orange.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-orange.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Purple</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-purple.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-purple.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Red</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-red.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-ed.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>37 Yellow</name>
+        <filename>/usr/share/backgrounds/risios-37/37-light-yellow.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/37-dark-yellow.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Jerry Zhang Mountains</name>
+        <filename>/usr/share/backgrounds/risios-37/jerry-zhang-light.jpg</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/jerry-zhang-dark.jpg</filename-dark>
+        <options>zoom</options>
+        <author>Jerry Zhang</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Tommy Iftekhar Leaves</name>
+        <filename>/usr/share/backgrounds/risios-37/tommy-iftekhar-light.jpg</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/tommy-iftekhar-dark.jpg</filename-dark>
+        <options>zoom</options>
+        <author>Tommy Iftekhar</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Zhifei Zhou Space Needle</name>
+        <filename>/usr/share/backgrounds/risios-37/zhifei-zhou-light.jpg</filename>
+        <filename-dark>/usr/share/backgrounds/risios-37/zhifei-zhou-dark.jpg</filename-dark>
+        <options>zoom</options>
+        <author>Zhifei Zhou</author>
+    </wallpaper>
+</wallpapers>
