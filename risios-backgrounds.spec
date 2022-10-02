@@ -33,7 +33,7 @@ risiOS 36 Wallpapers
 %install
 mkdir -p %{buildroot}%{_datadir}/backgrounds
 
-cp -a risios-* %{buildroot}%{_datadir}/backgrounds
+cp -a risios-*/ %{buildroot}%{_datadir}/backgrounds
 cp -a gnome-background-properties %{buildroot}%{_datadir}/gnome-background-properties
 
 %files 36
