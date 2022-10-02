@@ -15,7 +15,7 @@ Package hosting wallpapers for risiOS
 %package 36
 Summary: 	risiOS 36 Wallpapers
 Conflicts:  risios-36-backgrounds
-Provides:	risios-36-backgrounds # Replaces old package for backgrounds
+Provides:	  risios-36-backgrounds
 
 %description 36
 risiOS 36 Wallpapers
