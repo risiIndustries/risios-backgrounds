@@ -5,7 +5,7 @@ Summary:	Wallpapers for risioS
 
 License:	GPL v3
 URL:		risi.io
-Source0:	https://github.com/risiOS/risios-backgrounds/archive/refs/heads/main.tar.gz#/risios-36-backgrounds-main.tar.gz
+Source0:	https://github.com/risiOS/risios-backgrounds/archive/refs/heads/main.tar.gz#/risios-backgrounds-main.tar.gz
 
 BuildArch:	noarch
 
