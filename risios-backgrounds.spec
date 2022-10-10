@@ -1,11 +1,11 @@
 Name:		risios-backgrounds
 Version:	37
-Release:	7%{?dist}
+Release:	8%{?dist}
 Summary:	Wallpapers for risioS
 
 License:	GPL v3
 URL:		risi.io
-Source0:	https://github.com/risiOS/risios-backgrounds/archive/refs/heads/main.tar.gz#/risios-36-backgrounds-main.tar.gz
+Source0:	https://github.com/risiIndustries/risios-backgrounds/archive/refs/heads/main.tar.gz
 
 BuildArch:	noarch
 
@@ -15,7 +15,7 @@ Package hosting wallpapers for risiOS
 %package 36
 Summary: 	risiOS 36 Wallpapers
 Conflicts:  risios-36-backgrounds
-Provides:	risios-36-backgrounds # Replaces old package for backgrounds
+Provides:	  risios-36-backgrounds
 
 %description 36
 risiOS 36 Wallpapers
@@ -33,7 +33,7 @@ risiOS 36 Wallpapers
 %install
 mkdir -p %{buildroot}%{_datadir}/backgrounds
 
-cp -a risios-* %{buildroot}%{_datadir}/backgrounds
+cp -a risios-*/ %{buildroot}%{_datadir}/backgrounds
 cp -a gnome-background-properties %{buildroot}%{_datadir}/gnome-background-properties
 
 %files 36
