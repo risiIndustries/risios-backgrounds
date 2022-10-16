@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-    wallpaper deleted="false">
+    <wallpaper deleted="false">
         <name>37 Blood Orange</name>
         <filename>/usr/share/backgrounds/risios-37/37-light-blood-orange.png</filename>
         <filename-dark>/usr/share/backgrounds/risios-37/37-dark-blood-orange.png</filename-dark>
