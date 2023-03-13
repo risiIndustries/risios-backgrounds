@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>38 Fragile</name>
+        <filename>/usr/share/backgrounds/risios-38/fragilewallpaper.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/fragilewallpaper.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+</wallpapers>
