@@ -39,7 +39,7 @@ Summary: 	risiOS Fragile Wallpapers
 risiOS Fragile Wallpapers
 
 %prep
-%autosetup -n risios-backgrounds-main
+%autosetup -n risios-backgrounds-fragile
 %build
 
 %install
