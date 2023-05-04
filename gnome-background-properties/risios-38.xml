@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Lightning (Default)</name>
+        <filename>/usr/share/backgrounds/risios-38/lightning.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/lightning_dark.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd (Stable Diffusion, Upscayl)</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Shattered</name>
+        <filename>/usr/share/backgrounds/risios-38/shattered.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/shattered_dark.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd (Stable Diffusion, Upscayl)</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Island</name>
+        <filename>/usr/share/backgrounds/risios-38/island.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/island_dark.png</filename-dark>
+        <options>zoom</options>
+        <author>PizzaLovingNerd (Stable Diffusion, Upscayl)</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Almost Ocean</name>
+        <filename>/usr/share/backgrounds/risios-38/almost_ocean.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/almost_ocean_dark.png</filename-dark>
+        <options>zoom</options>
+        <author>Alex Bootthanoo (Midjourney, Upscayl)</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Splenden</name>
+        <filename>/usr/share/backgrounds/risios-38/splenden_light.png</filename>
+        <filename-dark>/usr/share/backgrounds/risios-38/splenden_dark.png</filename-dark>
+        <options>zoom</options>
+        <author>Alex Bootthanoo (Midjourney, Upscayl)</author>
+    </wallpaper>
+</wallpapers>
