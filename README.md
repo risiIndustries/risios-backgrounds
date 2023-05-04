@@ -1,5 +1,12 @@
 Wallpapers for risiOS (note wallpaper names in risiOS maybe different from what the author originally named it. Wallpapers may have also been lightened or darkened to match theme variations)
 
+# 38 Wallpapers:
+- Lightning (Default) by @PizzaLovingNerd (Generated with Stable Diffusion, upscaled with Upscayl)
+- Shattered by @PizzaLovingNerd (Generated with Stable Diffusion, upscaled with Upscayl)
+- Island by @PizzaLovingNerd (Generated with Stable Diffusion, upscaled with Upscayl)
+- Almost Ocean by @bootthanoo (Generated with Midjourney, upscaled with Upscayl)
+- Splenden by @bootthanoo (Generated with Midjourney, upscaled with Upscayl)
+
 # 37 Wallpapers:
 - "37" by @PizzaLovingNerd
 - Jerry Zhang (https://unsplash.com/photos/YRET0TBaV0g)
